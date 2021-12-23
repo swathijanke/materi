@@ -1,0 +1,34 @@
+.table_outlet {
+    font-family: arial, sans-serif;
+    border: 1px solid black;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .text-box{
+    border: 1px solid 	#c0bdbd;
+    text-align:left; 
+    display: block;
+    padding: 10px;
+    margin: 0.5rem;
+    border-spacing: 2px;
+    width: -100%;
+    border-radius: 12px;
+    box-sizing: border-box;
+  }
+  .input_box{
+    border: 1px solid rgb(71, 70, 70);
+    border-radius: 12px;
+    height: 70%;
+    width: 20%;
+    font-family: arial, sans-serif;
+  
+  }
